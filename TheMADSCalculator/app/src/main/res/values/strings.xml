@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">The MAD(S) Calculator</string>
+    <string name="mads_fragment">Mads Fragment</string>
+    <string name="history_fragment">History_fragment</string>
+    <string name="history">History</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="login_Fragment_label">Login Fragment</string>
+    <string name="login">Login</string>
+    <string-array name="buttons">
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>AC</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>*</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>/</item>
+        <item>+</item>
+        <item>0</item>
+        <item>-</item>
+        <item>=</item>
+    </string-array>
+</resources>
